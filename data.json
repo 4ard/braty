@@ -1,0 +1,51 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Vitaliy",
+        "address": "Red",
+        "phone": "1212451353513",
+        "contact_person": "Daniil"
+    },
+    {
+        "customer_id": 2,
+        "name": "DELETE",
+        "address": "DELETE",
+        "phone": "12345678977",
+        "contact_person": "DELETED"
+    },
+    {
+        "customer_id": 3,
+        "name": "TRERIY",
+        "address": "TRETINNAYA",
+        "phone": "59098654495",
+        "contact_person": "Tretnikov"
+    },
+    {
+        "customer_id": 4,
+        "name": "PASHA",
+        "address": "Krasnaya",
+        "phone": "1543634563",
+        "contact_person": "Luda"
+    },
+    {
+        "customer_id": 5,
+        "name": "PASHA",
+        "address": "Krasnaya",
+        "phone": "1543634563",
+        "contact_person": "Luda"
+    },
+    {
+        "customer_id": 6,
+        "name": "PASHA",
+        "address": "Krasnaya",
+        "phone": "1543634563",
+        "contact_person": "Luda"
+    },
+    {
+        "customer_id": 7,
+        "name": "PASHA",
+        "address": "Krasnaya",
+        "phone": "1543634563",
+        "contact_person": "Luda"
+    }
+]

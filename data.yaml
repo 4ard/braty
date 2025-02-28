@@ -1,0 +1,20 @@
+- address: RED
+  contact_person: RED cont
+  customer_id: 1
+  name: Redick
+  phone: '12345678911'
+- address: Tretiya
+  contact_person: Troyka
+  customer_id: 3
+  name: TretiyVasya
+  phone: '23456789123'
+- address: Belaya
+  contact_person: UPDKOLYA
+  customer_id: 4
+  name: UPDMisha
+  phone: '31234567892'
+- address: Cvetova
+  contact_person: Gleb
+  customer_id: 5
+  name: Cvetok
+  phone: '79098606684'
